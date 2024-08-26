@@ -9,3 +9,15 @@ El objetivo de este proyecto es analizar las canciones más reproducidas en Spot
 - `data`: Directorio que almacena la data utilizada en este proyecto.
 - `notebook/`: Directorio para cuadernos de Jupyter u otros documentos relacionados.
 - `README.MD`: Documentación principal del proyecto.
+
+# Tecnologías usadas
+- Python: Lenguaje de programación utilizado para el análisis de datos.
+- Jupyter Notebook: Entorno interactivo donde se desarrolló el análisis.
+
+# Librerías usadas
+- Pandas: Para la manipulación y análisis de datos.
+- Matplotlib: Para la visualización de datos en gráficos.
+- Seaborn: Para mejorar la visualización de datos con gráficos estadísticos.
+- NumPy: Para operaciones numéricas eficientes.
+
+
