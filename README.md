@@ -2,7 +2,7 @@
 Este proyecto contempla un análisis exploratorio junto a visualizaciones en Jupyter Notebook de los streams de diferentes canciones en distintas plataformas como lo son Spotify, YouTube y TikTok
 
 # Objetivo del Proyecto
-El objetivo de este proyecto es analizar las canciones más reproducidas en Spotify durante el año 2022. Se busca identificar patrones, tendencias y realizar visualizaciones que permitan entender mejor las preferencias musicales a nivel global
+El objetivo de este proyecto es analizar las canciones más reproducidas en Spotify, YouTube y TikTok. Se busca identificar patrones, tendencias y realizar visualizaciones que permitan entender mejor las preferencias musicales a nivel global
 
 ## Estructura de archivos y directorios del módulo
 
